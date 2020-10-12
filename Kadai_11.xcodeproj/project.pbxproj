@@ -15,6 +15,7 @@
 		695423F92532FFBC00B28B61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 695423F72532FFBC00B28B61 /* LaunchScreen.storyboard */; };
 		695424042532FFBC00B28B61 /* Kadai_11Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695424032532FFBC00B28B61 /* Kadai_11Tests.swift */; };
 		6954240F2532FFBC00B28B61 /* Kadai_11UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6954240E2532FFBC00B28B61 /* Kadai_11UITests.swift */; };
+		695424202533C8C400B28B61 /* PrefectureTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6954241F2533C8C400B28B61 /* PrefectureTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6954240A2532FFBC00B28B61 /* Kadai_11UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Kadai_11UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6954240E2532FFBC00B28B61 /* Kadai_11UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kadai_11UITests.swift; sourceTree = "<group>"; };
 		695424102532FFBC00B28B61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6954241F2533C8C400B28B61 /* PrefectureTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrefectureTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				695423EC2532FFB800B28B61 /* AppDelegate.swift */,
 				695423EE2532FFB800B28B61 /* SceneDelegate.swift */,
 				695423F02532FFB800B28B61 /* ViewController.swift */,
+				6954241F2533C8C400B28B61 /* PrefectureTableViewController.swift */,
 				695423F22532FFB800B28B61 /* Main.storyboard */,
 				695423F52532FFBC00B28B61 /* Assets.xcassets */,
 				695423F72532FFBC00B28B61 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				695423F12532FFB800B28B61 /* ViewController.swift in Sources */,
 				695423ED2532FFB800B28B61 /* AppDelegate.swift in Sources */,
+				695424202533C8C400B28B61 /* PrefectureTableViewController.swift in Sources */,
 				695423EF2532FFB800B28B61 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
