@@ -85,7 +85,7 @@
                     <navigationItem key="navigationItem" title="都道府県" id="FCj-Bq-TwQ">
                         <barButtonItem key="rightBarButtonItem" systemItem="cancel" id="28Q-LO-hvr">
                             <connections>
-                                <segue destination="gkb-Jn-2h1" kind="unwind" unwindAction="exitFromCancelWithSegue:" id="GyV-hH-OCV"/>
+                                <segue destination="gkb-Jn-2h1" kind="unwind" identifier="SegueB" unwindAction="exitFromCancelWithSegue:" id="GyV-hH-OCV"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
